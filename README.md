@@ -22,7 +22,7 @@ If you are just looking to dip your toe into learning about Natural Language Pro
 
 However, by choosing this option, you will miss out on the full experience of this workshop (the last section, building a Voice Assistant in particular). There will be a Google Colab Notebook that will get you most of the way there for this section but not give the whole experience.
 
-If you choose this option, click [COLAB_TOC.md](https://github.com/dvonthenen/proposals/tree/main/2025_SCALE22/DemystifyingBuildingNLPModels/COLAB_TOC.md).
+If you choose this option, click [COLAB_TOC.md](https://github.com/dvonthenen/2025-scale-22x-nlp/tree/main/demos/COLAB_TOC.md).
 
 ## Option 2: A Full Production-like Experience
 
@@ -30,7 +30,7 @@ If you opt for the full experience, you need to have a Linux/MacOS based operati
 
 If you haven't setup anything yet and still want to go with this option, the link below will have the all required software you need to install.
 
-If you choose this option, click [LAPTOP_TOC.md](https://github.com/dvonthenen/proposals/tree/main/2025_SCALE22/DemystifyingBuildingNLPModels/LAPTOP_TOC.md).
+If you choose this option, click [LAPTOP_TOC.md](https://github.com/dvonthenen/2025-scale-22x-nlp/tree/main/demos/LAPTOP_TOC.md).
 
 ## SaaS Platform Accounts Need for Either Option
 
